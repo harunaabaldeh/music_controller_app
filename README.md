@@ -1,6 +1,7 @@
-# Music-Controller-Web-App-Tutorial
+# Music-Controller-App
 
-The code for Tech With Tim's "Django & React Full Stack Web App Tutorial" series.
+The code for Haruna 's "Django & React Full Stack Web App Tutorial" series.
+Special Thanks to Tech With Tim youtube channel. I have learn a lot during the time of developing this wee app
 
 ## Setup Instructions
 
